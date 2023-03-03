@@ -1,0 +1,7 @@
+behave~=1.2.6
+selenium~=4.4.3
+mysql~=0.0.3
+mysql-connector-python~=8.0.32
+pychrome~=0.2.3
+requests~=2.28.1
+configparser~=5.3.0
